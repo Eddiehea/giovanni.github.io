@@ -1,0 +1,26 @@
+body{
+    background-image: url(img/dart-metal.jpg)
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white !important;
+    text-align: left;
+}
+
+p{
+    text-align: center;
+    color: white;
+}
+
+p1{
+    color: white;
+    margin: auto;
+    text-align: center;
+}
+
+h3{
+    color: white !important;
+
+}
+
